@@ -1,0 +1,43 @@
+.style-switcher {
+    position: fixed;
+    right: 0px;
+    top: 60px;
+    width: 200px;
+    z-index: 101;
+    border-radius: 5px;
+    transition: all 0.3s cover;
+    transform: translateX(60%);
+}
+
+.style-switcher .s-icon {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    font-size: 22px;
+    background-color: var(--text-black-900);
+    color: var(--bg-black-900);
+    border: 1px solid var(--bg-black-50);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 50%;
+}
+
+.style-switcher .day-night {
+    top: 30px;
+    padding-top: 5px;
+    color: var(--bg-black-100);
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+@media screen and (max-width: 768px) {
+    .style-switcher {
+        width: 150px;
+    }
+    .style-switcher .s-icon {
+        height: 30px;
+        width: 30px;
+        font-size: 18px;
+    }
+}
