@@ -89,11 +89,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Urva Gandhi**
-- GitHub: [@yourusername](https://github.com/UrvaGandhi24)
+- GitHub: [@UrvaGandhi24](https://github.com/UrvaGandhi24)
 - Instagram: [@urva_gandhi](https://www.instagram.com/urva_gandhi)
 - Facebook: [Urva Gandhi](https://www.facebook.com/urva.gandhi.24)
 - Twitter: [@urva_gandhi](https://twitter.com/urva_gandhi)
 - LinkedIn: [Urva Gandhi](https://www.linkedin.com/in/urva-gandhi-50138528a/)
+
+**Krisha Antala**
+- GitHub: [@Krisha-Antala](https://github.com/Krisha-Antala)
+- Instagram: [@krisha__antala](https://www.instagram.com/krisha__antala)
+- LinkedIn: [Krisha Antala](https://www.linkedin.com/in/krisha-antala-7a8826290/)
 
 ## 🙏 Acknowledgments
 
